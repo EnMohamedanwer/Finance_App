@@ -1,16 +1,13 @@
-# financce
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+💰 Finance UI App
+A simple finance application UI built using Flutter.
+This project focuses on designing a clean and user-friendly interface for managing financial data.
+📱 Overview
+This app is a UI-only project that simulates a finance management application.
+It includes screens for displaying balance, income, expenses, and transaction history.
+✨ Features
+🏠 Home screen with balance overview
+💸 Income & expenses display
+📋 Transaction list UI
+🎨 Clean and simple design
+🛠️ Technologies Used
+Flutter (UI only)
